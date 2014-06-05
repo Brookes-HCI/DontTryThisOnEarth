@@ -1,6 +1,8 @@
 # DontTryThisOnEarth
 Website to suggest mankind’s “firsts” on Mars. Created for the coursework of the HCI module (2013/2014, Semester 2) at Oxford Brookes University.
 
+All rights reserved.
+
 ## Contributing
 ### Getting Started
 1. [Install Github](https://help.github.com/articles/set-up-git)
